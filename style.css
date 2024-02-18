@@ -1,0 +1,242 @@
+.photo{
+    width: 120px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.logo_face{
+    width: 45px;
+    justify-content: right;
+}
+.logo_insta{
+    width: 40px;
+}
+.logo_youtube{
+    width: 40px;
+    justify-content: flex-end;
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(243, 238, 238);
+    height: 60px;
+    align-items: center;
+    justify-content: right;
+}
+.header-link{
+    color:rgb(31, 11, 11);
+    text-decoration: none;
+    padding: 20px;
+}
+.header-link:hover{
+    color: rgb(195, 96, 30);
+}
+.socials{
+    display:flex;
+    margin-right: 25px;
+    margin-top: 10px;
+    align-items: center;
+}
+.text-tels{
+    display: flex;
+}
+.hat {
+    display: flex;
+    flex-direction: column;
+}
+.social-items{
+    padding: 2px;
+}
+.contacts{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.text_item{
+    margin-right: 20px;
+}
+.foto{
+    background-image: url('/krysha-doma.jpg'); 
+    width: 100%;
+    height: 900px;
+    background-size: cover;
+    padding: 1px;
+}
+h1{
+    font-size: 85px;
+    margin-bottom: 15px;
+    color: white;
+    padding-left: 50px;
+}
+.textik{
+    color: #ffffff;
+    padding-left: 50px;
+}
+.text-buttons{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.text-button1{
+    background-color: goldenrod;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+.text-button2{
+    height: 40px;
+    width: 150px;
+    border-radius: 8px;
+    color: white;
+    border: 2px solid white;
+    margin-left: 10px;
+    background-color: rgba(137, 43, 226, 0);
+    cursor: pointer;
+}
+.text-info{
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+    font-size: 60px;
+}
+.text-work{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+}
+.border{
+    border-bottom: 2px solid orange;
+    width: 4%;
+    margin-left: 50px;
+}
+.container4{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 140px;
+    padding-right: 100px;
+}
+.photka_1{
+     width: 130px;
+     height: 130px;
+}
+.menu_text1{
+    width: 300px;
+    padding-top: 20px;
+}
+.menu_text2{
+    padding-top: 10px;
+    color: red;
+    font-size:large;
+    font-weight:700;
+}
+.menu_text3{
+    padding-top: 30px;
+    color: red;
+    font-size:large;
+    font-weight:700;
+}
+.menu_1{
+    text-align: center;
+    border: solid 2px;
+    padding: 10px;
+    border-color: grey;
+}
+.menu_text{
+    color: goldenrod;
+    font-size: 25px;
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.button1{
+    margin-right: 30px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    height: 40px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.button2{
+    background-color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.working{
+    display: flex;
+    justify-content: center;
+    color: crimson;
+    padding-top: 120px;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.border2{
+    border-bottom: 2px solid rgb(203, 203, 203)  ;
+    width: 4%;
+    margin-left: 610px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.container5{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 120px;
+    padding-bottom: 10px;
+}
+.menu-work{
+    color: goldenrod;
+    font-size: 90px;
+    display: flex;
+    align-items: center;
+    padding-left: 80px;
+}
+.menu-work1{
+    color: crimson;
+    display:flex;
+    align-items: center;
+    padding-left: 55px;
+    font-size: 130%;
+
+}
+.menu-work2{
+    width: 340px;
+    padding-top: 15px;
+    padding-left: 55px;
+    text-align: left;
+}
+#work{
+    background-color: whitesmoke;
+}
+.kompania_photo{
+    padding-left: 70px;
+    padding-top: 110px;
+    width: 600px;
+}
+.about-kompania{
+    margin-left: 10px;
+}
+#about-us{
+    display: flex;
+}
