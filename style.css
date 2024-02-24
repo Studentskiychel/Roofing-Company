@@ -209,7 +209,6 @@ h1{
     align-items: center;
     padding-left: 55px;
     font-size: 130%;
-
 }
 .menu-work2{
     width: 340px;
@@ -219,14 +218,6 @@ h1{
 #work{
     background-color: whitesmoke;
 }
-
-
-
-
-
-
-
-
 
 #about-us{
     display: flex;
@@ -265,4 +256,223 @@ h1{
     padding-left: 55px;
     padding-top: 10px;
     line-height: 25px;
+}
+.about_buttons{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+.button-1{
+    width: 170px;
+    margin-right: 30px;
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    height: 45px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.button-2{
+    background-color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 180px;
+}
+#why{
+    background-color: whitesmoke;
+}
+.name-zagowolok{
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+    color: goldenrod;
+    padding-top: 110px;
+    margin-bottom: 15px;
+}
+.name_text{
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+.border4{
+    border-bottom: 2px solid rgb(223, 223, 223)  ;
+    width: 4%;
+    margin-left: 618px;
+}
+.container7{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 80px;
+    padding-right: 120px;
+    padding-bottom: 120px;
+}
+.why-etaps{
+    background-color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-top: 6px solid crimson;
+}
+.menu-etaps1{
+    color: goldenrod;
+    font-size: 20px;
+}
+.menu-etaps2{
+    width: 270px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    height: 125px;
+    line-height: 20px;
+}
+.why1{
+    width: 70px;
+    padding-top: 20px;
+}
+.why2{
+    width: 80px;
+    padding-top: 20px;
+}
+.why3{
+    width: 80px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.container8{
+    background-image: url('/stroechka-new.jpg');  
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    padding-top: 20px;
+}
+.textis{
+    display: flex;
+    text-align: center;
+    color: black;
+    width: 400px;
+    font-size: 18px;
+}
+.textuk{
+    color: goldenrod;
+    font-size: 60px;
+    display: flex;
+    text-align: center;
+    padding-top: 50px;
+}
+.pablik{
+    margin-left: 780px;
+    background-color: white;
+    width: 440px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+}
+.names{
+    border-radius: 5px;
+    padding-top: 10px;
+    width: 250px;
+    background-color: rgb(243, 238, 238);
+    height: 35px;
+}
+.number{
+    border-radius: 5px;
+    padding-top: 10px;
+    width: 250px;
+    background-color: rgb(243, 238, 238);
+    height: 35px;
+}
+.email{
+    border-radius: 5px;
+    padding-top: 10px;
+    width: 250px;
+    background-color: rgb(243, 238, 238);
+    height: 35px;
+}
+.signup_form{
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.button_1{
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    height: 45px;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.photo{
+    width: 120px;
+    margin: 20px;
+    margin-bottom: 20px;
+}
+.container9{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.logo_face1{
+    width: 45px;
+    justify-content: right;
+}
+.logo_insta1{
+    width: 40px;
+}
+.logo_youtube1{
+    width: 40px;
+    justify-content: flex-end;
+}
+.socials1{
+    display:flex;
+    align-items: center;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.text-tels1{
+    display: flex;
+
+}
+.social-items1{
+    padding: 2px;
+}
+.contacts1{
+    display: flex;
+    justify-content: space-between;
+}
+.text_item1{
+    padding-right: 180px;
+}
+.text-items1{
+    font-size: 18px;
+}
+.vikipedia{
+    width: 300px;
+     margin: 20px;
 }
