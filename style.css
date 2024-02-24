@@ -61,7 +61,7 @@
     margin-right: 20px;
 }
 .foto{
-    background-image: url('krysha-doma.jpg'); 
+    background-image: url('./krysha-doma.jpg'); 
     width: 100%;
     height: 900px;
     background-size: cover;
@@ -338,7 +338,7 @@ h1{
     padding-top: 20px;
 }
 .container8{
-    background-image: url('stroechka-new.jpg');  
+    background-image: url('./stroechka-new.jpg');  
     width: 100%;
     height: 800px;
     background-size: cover;
